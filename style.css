@@ -1,0 +1,214 @@
+body{
+    margin: 0;
+}
+.fast{
+    background-image: url(/img/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 700px;
+}
+h1{
+    font-family: 'Fugaz One', cursive;
+    font-size: 50px;
+}
+.color-change{
+    color: crimson;
+}
+.left-width{
+    float: left;
+    width: 40%;
+    margin: 3%;
+    padding: 2%;
+}
+.image{
+    width:100%;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+.Hire-me{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 800;
+    color:white;
+    padding: 7px;
+    border: 2px solid black;
+    border-radius: 7px;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+.Hire-me:hover{
+    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    color: black;
+}
+.second{
+    background-image: url(/img/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.milestone{
+    font-family: 'Fugaz One', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+.top{
+    font-size: 40px;
+    font-family: 'Fugaz One', cursive;
+    text-align: center;
+    padding-bottom: 100px;
+
+}
+.middle-side{
+   display: flex;
+    width: 100%;
+}
+.image1{
+    width:100%;
+    padding: 6px;
+    border: 2px solid black;
+    margin: 2px;
+}
+.fourth{
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+.education{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+    color: crimson;
+}
+.edu{
+    box-shadow: 10px 10px 40px black;
+    padding: 10px;
+    border-radius: 15px;
+}
+.insi{
+    color: white;
+}
+#education1{
+    border-left: 5px solid orange;
+    border-bottom:5px solid orange;
+}
+#education2{
+    border-left: 5px solid crimson;
+    border-bottom:5px solid crimson;
+}
+.fifth{
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+}
+.experience{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+    color: crimson;
+}
+.ex{
+    color: white;
+}
+.exp{
+    box-shadow: 10px 10px 40px black;
+    padding: 10px;
+    border-radius: 15px;
+}
+#experience1{
+    border-left: 5px solid orange;
+    border-bottom:5px solid orange;
+}
+#experience2{
+    border-left: 5px solid crimson;
+    border-bottom:5px solid crimson;
+}
+.level{
+    color: white;
+}
+.para{
+    color: white;
+}
+.sixth{
+    background-image: url(/img/header-bg.png);
+    background-repeat: no-repeat;
+}
+.feedback{
+    font-size: 40px;
+    font-family: 'Fugaz One', cursive;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.clint-name{
+  font-size: 30px;
+  color: orangered;
+  text-align: center;
+}
+.stand{
+    font-size: 15px;
+    text-align: center;
+}
+.say{
+    width: 500px;
+    margin-left: 650px;
+    text-align: center;
+    box-shadow: 10px 10px 40px black;
+    padding: 25px;
+    border-radius: 15px;
+}
+.say:hover{
+    box-shadow: 10px 10px 40px lightcoral;
+
+}
+.message{
+    color: crimson;
+    font-size: 25px;
+    font-family: 'Fugaz One', cursive;
+    text-align: center;
+}
+.mail {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-family: 'Fugaz One', cursive;
+}
+.contace-me{
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+    font-size: 40px;
+    color:crimson;
+}
+.contact{
+    padding: 10px;
+    margin-left: 620px;
+    width: 600px;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 15px;
+    
+    
+}
+.mail:hover{
+    color: white;
+}
+.contact:hover{
+    box-shadow: 10px 10px 40px crimson;
+    background-image: linear-gradient(to right, #0acffe 0%, #495aff 100%);
+
+}
+.foot{
+    background-color: #6127EC;
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+.foot a{
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+}
+.foot a:hover{
+    color:crimson;
+}
+.foot  p{
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+    padding-top: 8px;
+    text-align: center;
+}
