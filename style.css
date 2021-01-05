@@ -53,26 +53,43 @@ p{
     text-align: center;
 }
 .third{
-    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+    background-image: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);
 }
-.top{
-    font-size: 40px;
-    font-family: 'Fugaz One', cursive;
+.first-width{
+    float: left;
+    width: 32%;
+    padding-left: 10px;
+    
+}
+.image{
     text-align: center;
-    padding: 50px;
-
-}
-.middle-side{
-   display: flex;
-    width: 100%;
+    font-size: 40px;
+    padding-top: 10px;
+    font-family: 'Fugaz One', cursive;
 }
 .image1{
-    width: 32.40%;
-    padding: 6px;
-    margin: 2px;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 1px 1px 40px;
+}
+.img1{
+    width: 80%;
+    padding-left: 30px;
+}
+.pic{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+}
+.picture{
+    color: white;
+    text-align: justify;
 }
 .image1:hover{
-    box-shadow: 20px 20px 60px black;
+    background-image: linear-gradient(to right, #868f96 0%, #596164 100%);
+}
+.img1:hover{
+    width: 90%;
 }
 .fourth{
     background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
@@ -164,6 +181,39 @@ p{
     background-color: black;
     color: white;
 }
+.ch{
+    height: 50%;
+}
+.chat{
+    background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
+    display: flex;
+    padding: 10px;
+    margin-left: 650px;
+    width: 600px;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+.chats{
+    padding: 40px;
+    font-size: 35px;
+    font-family: 'Fugaz One', cursive;
+}
+.cha{
+    padding: 65px;  
+}
+.chat-color{
+    text-decoration: none;
+    font-family: 'Fugaz One', cursive;
+    color: black;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: coral;
+}
+.chat-color:hover{
+    background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);
+}
 .message{
     color: crimson;
     font-size: 25px;
@@ -181,16 +231,14 @@ p{
     text-align: center;
     font-family: 'Fugaz One', cursive;
     font-size: 40px;
-    color:crimson;
+    padding-top: 200px;
 }
 .contact{
     padding: 10px;
     margin-left: 650px;
     width: 600px;
     box-shadow: 10px 10px 40px black;
-    border-radius: 15px;
-    
-    
+    border-radius: 15px;  
 }
 .mail:hover{
     color: white;
