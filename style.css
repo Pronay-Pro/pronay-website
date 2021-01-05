@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    padding: 0;
 }
 .fast{
     background-image: url(img/header-bg.png);
@@ -219,6 +220,5 @@ p{
     margin: 10px;
     color: white;
     padding-top: 8px;
-    text-align: center;
-    
+    text-align: center;  
 }
