@@ -62,11 +62,11 @@ p{
 
 }
 .middle-side{
-   float: left;
+   display: flex;
     width: 100%;
 }
 .image1{
-    width:32%;
+    width: 32.40%;
     padding: 6px;
     margin: 2px;
 }
