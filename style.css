@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 .fast{
-    background-image: url(/img/header-bg.png);
+    background-image: url(img/header-bg.png);
     background-repeat: no-repeat;
 }
 section{
@@ -43,7 +43,7 @@ p{
     color: black;
 }
 .second{
-    background-image: url(/img/latest-work-bg.png);
+    background-image: url(img/latest-work-bg.png);
     background-repeat: no-repeat;
 }
 .milestone{
@@ -132,7 +132,7 @@ p{
     color: white;
 }
 .sixth{
-    background-image: url(/img/header-bg.png);
+    background-image: url(img/header-bg.png);
     background-repeat: no-repeat;
 }
 .feedback{
