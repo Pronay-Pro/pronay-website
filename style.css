@@ -2,6 +2,23 @@ body{
     margin: 0;
     padding: 0;
 }
+.nav-ber{
+    height: 5%;
+}
+.navber{
+    float: right;
+    padding: 25px;
+}
+.nav{
+    padding: 40px;
+    text-decoration: none;
+    font-size: 20px;
+    color: crimson;
+    font-family: 'Fugaz One', cursive;
+}
+.nav:hover{
+    color: black;
+}
 .fast{
     background-image: url(img/header-bg.png);
     background-repeat: no-repeat;
@@ -23,7 +40,7 @@ h1{
     padding: 2%;
 }
 .image{
-    width:100%;
+    width: 100%;
 }
 p{
     font-size: 20px;
